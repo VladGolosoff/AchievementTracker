@@ -11,6 +11,7 @@ class GamesViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let git = "zaebal"
 
         // Uncomment the following line to preserve selection between presentations
         // self.clearsSelectionOnViewWillAppear = false
